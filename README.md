@@ -25,7 +25,7 @@ The dataset contains:
   - Clinical measurements (number of medications, lab procedures, diagnoses)
   - Hospital metrics (time in hospital, number of inpatient visits)
   - Medication information (metformin, insulin, etc.)
-- **Target variable**: `readmitted` – whether the patient was readmitted within 30 days (YES/NO)
+- **Target variable**: `readmitted`, whether the patient was readmitted within 30 days (YES/NO)
 
 Data is fetched directly in the notebook using:
 
