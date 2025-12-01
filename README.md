@@ -1,6 +1,6 @@
 # Predicting Hospital Readmission in Diabetes Patients
 
-This project explores the use of kNN, Logistic Regression, Random Forest, and Neural Networks to predict hospital readmission in diabetes patients using clinical data and demographic information.
+This project explores the use of kNN, Logistic Regression, Random Forest, and Neural Networks to predict hospital readmission in diabetes patients using clinical data and demographics.
 
 ## Overview
 
